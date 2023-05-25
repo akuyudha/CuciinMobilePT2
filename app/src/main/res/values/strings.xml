@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cuciin Mobile</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="signin_intro">Sign In</string>
+    <string name="haveAccount">Do you have an account?</string>
+    <string name="signup_intro">Sign Up</string>
+    <string name="bt_confirm_si">Confirm</string>
+    <string name="alreadyAccount">Already have an account?</string>
+    <string name="fullname">Fullname</string>
+    <string name="email">Email</string>
+    <string name="conf_password">Confirm Password</string>
+</resources>
