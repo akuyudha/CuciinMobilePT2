@@ -10,4 +10,5 @@
     <color name="background_blue">#003453</color>
     <color name="background_blue2">#0071F3</color>
     <color name="button">#00BBF3</color>
+    <color name="bt_rating">#FF791F</color>
 </resources>
