@@ -19,6 +19,7 @@
 
     <!--Dashboard-->
     <string name="title_dashboard">Dashboard</string>
+    <string name="username_dashboard">Username</string>
     <string name="title_contacus">Contact Us</string>
     <string name="title_profile">Profile</string>
     <string name="title_booking">Booking</string>
